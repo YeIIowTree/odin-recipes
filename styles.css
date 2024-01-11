@@ -8,3 +8,9 @@ ul {
     display: inline-block;
     text-align: center;
 }
+
+#bottom-link {
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+}
