@@ -1,9 +1,10 @@
 body {
-    background-color: gray;
+    background-color: black;
     color: white;
     text-align: center;
     
 }
+
 ul {
     display: inline-block;
     text-align: center;
